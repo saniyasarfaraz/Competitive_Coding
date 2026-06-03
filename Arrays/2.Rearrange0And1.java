@@ -14,7 +14,7 @@ class Solution {
         //     }
         // }
         
-        //2 pointer
+        //2 pointer Approach
         int i=0;
         int j=arr.length-1;
         while(i<j){
