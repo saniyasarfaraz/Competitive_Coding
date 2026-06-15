@@ -1,5 +1,5 @@
 //link:https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2034299560/?envType=daily-question&envId=2026-06-15/**
- * Definition for singly-linked list.
+ /* Definition for singly-linked list.
  * public class ListNode {
  *     int val;
  *     ListNode next;
