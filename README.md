@@ -1,4 +1,4 @@
-# Coding Interview Solutions 🚀
+# Competitive Coding 🚀
 
 A collection of well-structured solutions to coding interview problems, categorized by topic.
 
